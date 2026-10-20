@@ -1,0 +1,17 @@
+return {
+	BOLT_TAG = "Bolt",
+	TURNS_ATTRIBUTE = "TurnsApplied",
+	ROUTE_ATTRIBUTE = "Route",
+	ROUTE_STARTED_AT_ATTRIBUTE = "RouteStartedAt",
+	RARE_ATTRIBUTE = "Rare",
+	BELT_RUNNING_ATTRIBUTE = "Running",
+	BELT_SPEED_ATTRIBUTE = "Speed",
+	CLOCK_OFFSET_ATTRIBUTE = "ClockOffset",
+	CLOCK_PAUSED_AT_ATTRIBUTE = "ClockPausedAt",
+	INCOMING_ROUTE = "Incoming",
+	OUTGOING_ROUTE = "Outgoing",
+	TURNS_TO_SEAT = 5,
+	TURN_INTERVAL = 0.35,
+	BELT_SPEED = 2.4,
+	BOLT_SCALE = 0.8,
+}

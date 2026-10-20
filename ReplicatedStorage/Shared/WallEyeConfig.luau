@@ -1,0 +1,15 @@
+return {
+	TAG = "WallEye",
+	LOOSE_EYE_TAG = "LooseEye",
+	EYE_POSITION_ATTRIBUTE = "EyePosition",
+	STATE_ATTRIBUTE = "State",
+	AWAKE_ATTRIBUTE = "Awake",
+	PLUCKED_ATTRIBUTE = "Plucked",
+	TRAIL_COUNT_ATTRIBUTE = "TrailCount",
+	TRAIL_POINT_ATTRIBUTE_PREFIX = "TrailPoint",
+	RESTING_STATE = "Resting",
+	HUNTING_STATE = "Hunting",
+	RETREATING_STATE = "Retreating",
+	EYE_RADIUS = 1.1,
+	CORD_LENGTH = 32,
+}

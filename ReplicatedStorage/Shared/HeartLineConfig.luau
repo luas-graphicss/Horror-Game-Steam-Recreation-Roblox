@@ -1,0 +1,14 @@
+return {
+	HEART_TAG = "LineHeart",
+	HEART_NAME = "Heart",
+	POOL_NAME = "BloodPool",
+	REST_OFFSET_ATTRIBUTE = "RestOffset",
+	HITS_ATTRIBUTE = "Hits",
+	POPPED_AT_ATTRIBUTE = "PoppedAt",
+	CYCLE_STARTED_AT_ATTRIBUTE = "CycleStartedAt",
+	HITS_TO_POP = 3,
+	BLOOD_PER_HEART = 1,
+	POP_SETTLE_DURATION = 0.9,
+	STRIKE_INTERVAL = 0.35,
+	STRIKE_REACH = 12,
+}

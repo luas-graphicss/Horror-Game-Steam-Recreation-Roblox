@@ -1,0 +1,4 @@
+return {
+	JUMPSCARE_DURATION = 1.8,
+	FADE_OUT_DURATION = 0.7,
+}

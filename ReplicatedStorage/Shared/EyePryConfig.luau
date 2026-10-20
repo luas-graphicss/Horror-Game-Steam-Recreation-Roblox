@@ -1,0 +1,7 @@
+return {
+	AIM_DISTANCE = 12,
+	REACH = 16,
+	POP_DELAY = 0.74,
+	PULL_DISTANCE = 1.8,
+	COOLDOWN = 1.05,
+}

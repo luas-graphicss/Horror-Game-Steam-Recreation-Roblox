@@ -1,0 +1,9 @@
+return {
+	TAG = "Grabbable",
+	HELD_BY_ATTRIBUTE = "HeldBy",
+	LAST_HOLDER_ATTRIBUTE = "LastHolder",
+	MEAT_YIELD_ATTRIBUTE = "MeatYield",
+	REACH = 14,
+	MIN_HOLD_DISTANCE = 4,
+	MAX_HOLD_DISTANCE = 8,
+}

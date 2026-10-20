@@ -1,0 +1,11 @@
+return {
+	DOOR_TAG = "SectorDoor",
+	STATE_ATTRIBUTE = "DoorState",
+	OPENED_AT_ATTRIBUTE = "OpenedAt",
+	LOCKED_STATE = "Locked",
+	UNLOCKED_STATE = "Unlocked",
+	OPEN_STATE = "Open",
+	PRICE_CENTS = 60000,
+	LEAF_SLIDE_DISTANCE = 6.5,
+	OPENING_DURATION = 9,
+}
